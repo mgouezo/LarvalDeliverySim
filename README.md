@@ -1,5 +1,7 @@
 # LarvalDeliverySim
 
+Codes from: Gouezo et al. 2025. Going with the flow: leveraging reef-scale hydrodynamics for upscaling larval-based restoration. Ecological Applications. 
+
 The code selects particles that are always moving within a defined area throughout the entire dispersal phase for each dispersal simulation. Include batch processing.
 
 The code:
